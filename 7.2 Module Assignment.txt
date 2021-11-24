@@ -1,0 +1,16 @@
+Selected Module: Tkinter
+
+The purpose of tkinter is to create a more interactive user environment through the use of a graphical user interface.
+With a GUI, you are able to communicate with the program visually instead of just through a keyboard.
+
+The elements I plan on writing about:
+- Classes with tkinter
+- Frame function
+- Button function
+- Pack function
+- Color function
+- Label function
+- Entry function
+
+I plan on making a calculator with a GUI
+	

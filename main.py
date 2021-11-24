@@ -9,7 +9,7 @@ from tkinter import *
 
 #Setting the root window
 window = Tk()
-window.geometry("400x900")
+window.geometry("400x500")
 window.title("George's Calculator")
 
 #creating the program as class
